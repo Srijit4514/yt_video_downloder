@@ -16,8 +16,8 @@ MP4 file.
 1. Clone the repository and enter the project directory:
 
    ```bash
-   git clone https://github.com/Srijit4514/yt_audio_downloder.git
-   cd yt_audio_downloder
+   git clone https://github.com/Srijit4514/yt_video_downloder.git
+   cd yt_video_downloder
    ```
 
 2. Install the Python dependencies:
