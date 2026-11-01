@@ -1,6 +1,6 @@
 # YouTube Video Downloader
 
-A minimal Python command-line utility that downloads a YouTube video with
+A minimal Python command line utility that downloads a YouTube video with
 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp), limits the selected video to
 1080p, merges the best video and audio streams, and saves the result as an
 MP4 file.
